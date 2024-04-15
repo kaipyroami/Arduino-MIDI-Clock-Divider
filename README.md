@@ -7,7 +7,9 @@ A simple example of a MIDI clock divider for Arduino and Sparkfun MIDI shield
 
 ## Requirements
 [MIDI Library by Francois Best](https://www.arduino.cc/reference/en/libraries/midi-library/)
+
 [Adafruit GFX Library](https://www.arduino.cc/reference/en/libraries/adafruit-gfx-library/)
+
 [Adafruit SD1306 Library](https://www.arduino.cc/reference/en/libraries/adafruit-ssd1306/)
 
 ## BOM
