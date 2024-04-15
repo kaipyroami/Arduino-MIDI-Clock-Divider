@@ -14,6 +14,7 @@ A simple example of a MIDI clock divider for Arduino and Sparkfun MIDI shield
 
 ## BOM
 [SparkFun MIDI Shield](https://www.sparkfun.com/products/12898)
+
 Any generic I2C SD1306 OLED display
 
 ## Schematic
