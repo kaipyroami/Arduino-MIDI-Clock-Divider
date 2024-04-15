@@ -16,5 +16,6 @@ Any generic I2C SD1306 OLED display
 
 ## Schematic
 SCL -> A5
+
 SDA -> A4
 
