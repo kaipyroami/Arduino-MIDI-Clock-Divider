@@ -1,6 +1,9 @@
 # Arduino-MIDI-Clock-Divider
 A simple example of a MIDI clock divider for Arduino and Sparkfun MIDI shield
 
+[![Demo Video](https://img.youtube.com/vi/BTd4qSCWHRE/0.jpg)](https://www.youtube.com/watch?v=BTd4qSCWHRE)
+
+
 
 ## Requirements
 [MIDI Library by Francois Best](https://www.arduino.cc/reference/en/libraries/midi-library/)
